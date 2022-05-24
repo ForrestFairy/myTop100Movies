@@ -17,6 +17,7 @@ defmodule MyTop100MoviesWeb.Router do
   scope "/", MyTop100MoviesWeb do
     pipe_through :browser
 
+    resources "/movies", MovieController
     get "/", PageController, :index
   end
 
