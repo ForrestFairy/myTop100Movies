@@ -18,7 +18,6 @@ defmodule MyTop100MoviesWeb.Router do
     pipe_through :browser
 
     resources "/movies", MovieController
-    get "/", PageController, :index
   end
 
   # Other scopes may use custom stacks.

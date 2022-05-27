@@ -19,7 +19,6 @@
           'Elixir.MyTop100MoviesWeb.LayoutView',
           'Elixir.MyTop100MoviesWeb.MovieController',
           'Elixir.MyTop100MoviesWeb.MovieView',
-          'Elixir.MyTop100MoviesWeb.PageController',
           'Elixir.MyTop100MoviesWeb.PageView',
           'Elixir.MyTop100MoviesWeb.Router',
           'Elixir.MyTop100MoviesWeb.Router.Helpers',
